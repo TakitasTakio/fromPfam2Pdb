@@ -1,5 +1,13 @@
 **R package: fromPfam2Pdb**
 
+**Usage in R**
+
+```
+library(devtools)
+install_github("TakitasTakio/fromPfam2Pdb")
+library(fromPfam2Pdb)
+```
+
 Package: fromPfam2Pdb
 
 Type: Package
