@@ -1,0 +1,8 @@
+library(devtools)
+library(roxygen2)
+library(rvest)
+library(stringr)
+
+hello <- function() {
+  print("Hello, world!")
+}

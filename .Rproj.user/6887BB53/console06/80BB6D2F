@@ -1,0 +1,29 @@
+]0;~/Documents/shiny/fromPfam2Pdb[?1034hTsubasaTaki:fromPfam2Pdb takiobasa$ [KTsubasaTaki:fromPfam2Pdb takiobasa$ ls
+DESCRIPTION		R			fromPfam2Pdb.Rproj
+NAMESPACE		data			man
+]0;~/Documents/shiny/fromPfam2PdbTsubasaTaki:fromPfam2Pdb takiobasa$ cd data
+]0;~/Documents/shiny/fromPfam2Pdb/dataTsubasaTaki:data takiobasa$ ls
+pdb_pfam_mapping.txt
+l[Kc[Kls
+pdb_pfam_mapping.txt
+]0;~/.Trash/data 2.36.09 AMTsubasaTaki:data 2.36.09 AM takiobasa$ cd ..
+]0;~/.TrashTsubasaTaki:.Trash takiobasa$ ls
+data		data 2.36.09 AM	fromPfam2Pdb
+]0;~/.TrashTsubasaTaki:.Trash takiobasa$ cd ..
+]0;~TsubasaTaki:~ takiobasa$ ls
+Applications		Movies			apache-maven-3.5.3	package-lock.json
+Desktop			Music			bin			perl5
+Documents		Pictures		eclipse			perlbrew.BK8XKd
+Downloads		Public			eclipse-workspace	spring-2.0.2.RELEASE
+Library			anaconda3		node-js-getting-started	webdev
+]0;~TsubasaTaki:~ takiobasa$ cd[K[Kcd /Users/tsubasa/Documents/shiny/fromPfam2Pdb
+]0;~/Documents/shiny/fromPfam2PdbTsubasaTaki:fromPfam2Pdb takiobasa$ ls
+DESCRIPTION		R			man
+NAMESPACE		fromPfam2Pdb.Rproj	pdb_pfam_mapping.txt
+]0;~/Documents/shiny/fromPfam2PdbTsubasaTaki:fromPfam2Pdb takiobasa$ cd man
+]0;~/Documents/shiny/fromPfam2Pdb/manTsubasaTaki:man takiobasa$ ls
+obtainPdbfrmPfam.Rd
+]0;~/Documents/shiny/fromPfam2Pdb/manTsubasaTaki:man takiobasa$ vim [K[K cd[K[K[K[K[Kcd ..
+l[Kpwd
+/Users/tsubasa/Documents/shiny/fromPfam2Pdb
+]0;~/Documents/shiny/fromPfam2PdbTsubasaTaki:fromPfam2Pdb takiobasa$ 

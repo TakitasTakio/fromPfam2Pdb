@@ -1,0 +1,12 @@
+\name{obtainPdbfrmPfam}
+\alias{obtainPdbfrmPfam}
+\title{obtainPdbfrmPfam}
+\usage{
+obtainPdbfrmPfam()
+}
+\description{
+Get PDB id and its chain id from pfam accession number
+}
+\examples{
+obtainPdbfrmPfam()
+}
